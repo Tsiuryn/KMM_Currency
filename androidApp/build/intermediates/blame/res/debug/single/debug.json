@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Volumes/Macintosh HD - Data/Work/ST/Генератор Форм/FormGenerator/KmmCurency/androidApp/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/Volumes/Macintosh HD - Data/Work/ST/Генератор Форм/FormGenerator/KmmCurency/androidApp/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Volumes/Macintosh HD - Data/Work/ST/Генератор Форм/FormGenerator/KmmCurency/androidApp/build/intermediates/res/merged/debug/layout_item_currency.xml.flat",
+        "source": "/Volumes/Macintosh HD - Data/Work/ST/Генератор Форм/FormGenerator/KmmCurency/androidApp/src/main/res/layout/item_currency.xml"
+    }
+]

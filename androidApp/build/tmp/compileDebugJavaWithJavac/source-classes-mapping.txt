@@ -1,0 +1,2 @@
+by/st/generatorforms/athis/androidApp/BuildConfig.java
+ by.st.generatorforms.athis.androidApp.BuildConfig

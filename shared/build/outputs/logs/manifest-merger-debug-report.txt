@@ -1,0 +1,37 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Volumes/Macintosh HD - Data/Work/ST/Генератор Форм/FormGenerator/KmmCurency/shared/src/androidMain/AndroidManifest.xml:2:1-116
+INJECTED from /Volumes/Macintosh HD - Data/Work/ST/Генератор Форм/FormGenerator/KmmCurency/shared/src/androidMain/AndroidManifest.xml:2:1-116
+INJECTED from /Volumes/Macintosh HD - Data/Work/ST/Генератор Форм/FormGenerator/KmmCurency/shared/src/androidMain/AndroidManifest.xml:2:1-116
+INJECTED from /Volumes/Macintosh HD - Data/Work/ST/Генератор Форм/FormGenerator/KmmCurency/shared/src/androidMain/AndroidManifest.xml:2:1-116
+INJECTED from /Volumes/Macintosh HD - Data/Work/ST/Генератор Форм/FormGenerator/KmmCurency/shared/src/androidMain/AndroidManifest.xml:2:1-116
+INJECTED from /Volumes/Macintosh HD - Data/Work/ST/Генератор Форм/FormGenerator/KmmCurency/shared/src/androidMain/AndroidManifest.xml:2:1-116
+INJECTED from /Volumes/Macintosh HD - Data/Work/ST/Генератор Форм/FormGenerator/KmmCurency/shared/src/androidMain/AndroidManifest.xml:2:1-116
+	package
+		ADDED from /Volumes/Macintosh HD - Data/Work/ST/Генератор Форм/FormGenerator/KmmCurency/shared/src/androidMain/AndroidManifest.xml:2:70-114
+		INJECTED from /Volumes/Macintosh HD - Data/Work/ST/Генератор Форм/FormGenerator/KmmCurency/shared/src/androidMain/AndroidManifest.xml
+		INJECTED from /Volumes/Macintosh HD - Data/Work/ST/Генератор Форм/FormGenerator/KmmCurency/shared/src/androidMain/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Volumes/Macintosh HD - Data/Work/ST/Генератор Форм/FormGenerator/KmmCurency/shared/src/androidMain/AndroidManifest.xml
+		ADDED from /Volumes/Macintosh HD - Data/Work/ST/Генератор Форм/FormGenerator/KmmCurency/shared/src/androidMain/AndroidManifest.xml:2:1-116
+		INJECTED from /Volumes/Macintosh HD - Data/Work/ST/Генератор Форм/FormGenerator/KmmCurency/shared/src/androidMain/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Volumes/Macintosh HD - Data/Work/ST/Генератор Форм/FormGenerator/KmmCurency/shared/src/androidMain/AndroidManifest.xml
+		ADDED from /Volumes/Macintosh HD - Data/Work/ST/Генератор Форм/FormGenerator/KmmCurency/shared/src/androidMain/AndroidManifest.xml:2:1-116
+		INJECTED from /Volumes/Macintosh HD - Data/Work/ST/Генератор Форм/FormGenerator/KmmCurency/shared/src/androidMain/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Volumes/Macintosh HD - Data/Work/ST/Генератор Форм/FormGenerator/KmmCurency/shared/src/androidMain/AndroidManifest.xml:2:11-69
+uses-sdk
+INJECTED from /Volumes/Macintosh HD - Data/Work/ST/Генератор Форм/FormGenerator/KmmCurency/shared/src/androidMain/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Volumes/Macintosh HD - Data/Work/ST/Генератор Форм/FormGenerator/KmmCurency/shared/src/androidMain/AndroidManifest.xml
+INJECTED from /Volumes/Macintosh HD - Data/Work/ST/Генератор Форм/FormGenerator/KmmCurency/shared/src/androidMain/AndroidManifest.xml
+INJECTED from /Volumes/Macintosh HD - Data/Work/ST/Генератор Форм/FormGenerator/KmmCurency/shared/src/androidMain/AndroidManifest.xml
+INJECTED from /Volumes/Macintosh HD - Data/Work/ST/Генератор Форм/FormGenerator/KmmCurency/shared/src/androidMain/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Volumes/Macintosh HD - Data/Work/ST/Генератор Форм/FormGenerator/KmmCurency/shared/src/androidMain/AndroidManifest.xml
+		ADDED from /Volumes/Macintosh HD - Data/Work/ST/Генератор Форм/FormGenerator/KmmCurency/shared/src/androidMain/AndroidManifest.xml
+		INJECTED from /Volumes/Macintosh HD - Data/Work/ST/Генератор Форм/FormGenerator/KmmCurency/shared/src/androidMain/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Volumes/Macintosh HD - Data/Work/ST/Генератор Форм/FormGenerator/KmmCurency/shared/src/androidMain/AndroidManifest.xml
+		ADDED from /Volumes/Macintosh HD - Data/Work/ST/Генератор Форм/FormGenerator/KmmCurency/shared/src/androidMain/AndroidManifest.xml
+		INJECTED from /Volumes/Macintosh HD - Data/Work/ST/Генератор Форм/FormGenerator/KmmCurency/shared/src/androidMain/AndroidManifest.xml
